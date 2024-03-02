@@ -21,7 +21,7 @@ Welcome to my PowerBI Showcase GitHub repository! Here, you'll find an interaciv
 
 ## Introduction
 This project presents a dynamic and interactive dashboard developed in PowerBI, showcasing an analysis of the top Spotify songs from 2018 to 2023. Utilizing a comprehensive dataset from kaggle, the dashboard provides insights into trends in music preferences, artist popularity, and song characteristics over the years. The aim is to offer users a detailed overview of the evolving music landscape, highlighting key metrics such as energy levels, average stream counts per year, and top artists. This tool is designed for music enthusiasts, industry analysts, and anyone interested in understanding the dynamics of popular music through data visualization.
-![Dashboard Screenshot](./Dashboard%20Image/Dashboard.png)
+![Dashboard Screenshot](./Dashboard.png)
 
 ## Dataset Source
 The analysis is based on the dataset available at [Kaggle: Top Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data). This dataset encompasses a wide range of information, including:
